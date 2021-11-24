@@ -1,0 +1,57 @@
+@charset "UTF-8";
+@font-face {
+  font-family: "flaticon";
+  src: url("./flaticon.ttf?bc99d28f0e3cddeba82d1eb9f16afa0b") format("truetype"), url("./flaticon.woff?bc99d28f0e3cddeba82d1eb9f16afa0b") format("woff"), url("./flaticon.woff2?bc99d28f0e3cddeba82d1eb9f16afa0b") format("woff2"), url("./flaticon.eot?bc99d28f0e3cddeba82d1eb9f16afa0b#iefix") format("embedded-opentype"), url("./flaticon.svg?bc99d28f0e3cddeba82d1eb9f16afa0b#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+  font-family: flaticon !important;
+  font-style: normal;
+  font-weight: normal !important;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-olympic-weightlifting:before {
+  content: "";
+}
+
+.flaticon-boxing-fighter:before {
+  content: "";
+}
+
+.flaticon-skipping-rope:before {
+  content: "";
+}
+
+.flaticon-buddhist-yoga-pose:before {
+  content: "";
+}
+
+.flaticon-bicycle:before {
+  content: "";
+}
+
+.flaticon-man-exercising-back-and-legs:before {
+  content: "";
+}
+
+.flaticon-training:before {
+  content: "";
+}
+
+.flaticon-diet:before {
+  content: "";
+}
+
+.flaticon-bike:before {
+  content: "";
+}
+
+.flaticon-exercise:before {
+  content: "";
+}
+/*# sourceMappingURL=flaticon.css.map */
